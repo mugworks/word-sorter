@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mugworks/word-sorter/issues"
   },
-  "homepage": "https://github.com/mugworks/word-sorter#readme"
+  "homepage": "https://github.com/mugworks/word-sorter#readme",
+  "dependencies": {
+    "cucumber": "^5.1.0"
+  }
 }
