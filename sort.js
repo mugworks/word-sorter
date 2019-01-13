@@ -16,4 +16,4 @@ if (words == null){
 }
 
 fs.writeFileSync('./output.csv', array1);
-console.log(array1);
+console.log(array1); //keep the console log for the Dockerfile to see output
