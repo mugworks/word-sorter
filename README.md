@@ -1,5 +1,5 @@
 ### Thought process for program
-1. I assigned a string such as ('a, Y, d,, &) to a variable "words".
+1. I assigned a string such as 'a, Y, d,, &' to a variable "words".
 2. I wrote some code to split the string, sort it and to see how it handled case sensitivity, special characters and blank spaces.
 3. I then added code to handle null and undefined situations and the descending order.
 4. Once I had that portion working, I added the readFile and made sure that was working.
