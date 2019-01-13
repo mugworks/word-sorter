@@ -1,19 +1,20 @@
 ## TOOLS
-1. In your opinion, what’s helpful about version control systems? What’s annoying about them?
+"Bold" 1. In your opinion, what’s helpful about version control systems? What’s annoying about them?
 
 Version control has multiple advantages. It allows multiple users to check out the code, work on it and merge it back in. It enables people to determine what code is in production vs development vs testing. If code is not working in a new revision, it is easy to compare the differences between the old and new versions to help troubleshoot where the problem might lay. 
 I use Git GitHub for version control and the only thing that I find annoying is difficulty adding images to wikis. One picture can often explain things better than words and I wish it was easier to insert images.
 
-2. What are some pros and cons of using Docker to develop, test, and deploy software?
+-italics_ 2. What are some pros and cons of using Docker to develop, test, and deploy software?
 
 #### Docker pros -
 * No inconsistencies between computers. It works the same for everyone which is especially useful so that development and QA are experiencing identical behaviors. 
 * It just works. You don’t have to install tools and dependencies on each local machine running the application.
 * It can start up in seconds.
 
-### Docker cons - 
+#### Docker cons - 
 * Security may be an issue. Hackers are targeting containers. Since containers share an operating system, there are vulnerabilities if one container has a security breach.
 * I have heard some people complain that there is a high learning curve.
+
 
 3. How do you choose which language to use for a given task? How did you choose the language for the programming exercise above? 
 
