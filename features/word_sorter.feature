@@ -11,7 +11,7 @@ Scenario: CSV file with concurrent commas
 Scenario: mixed cases
   Given two words, one capitalized and one lowercase
   When CSV data is separated into unique words in an array
-  Then capitalize all words prior to sorting
+  Then uppercase all words prior to sorting
 
 Scenario: special characters
   Given data with special characters
