@@ -5,5 +5,6 @@
 4. Once I had that portion working, I added the readFile and made sure that was working.
 5. I added the writeFile.
 6. I added toUpperCase.
+7. There are libraries available that deal with parsing CSV files that I chose not to use for this exercise due to time constraints.
 
 I made some assumptions that I would want clarified as the developer or tester. I assumed that blank cells would be eliminated. I assumed that my input file was not so large that I would have to consider streams. I assumed case was not sensitive. Since the example of an input file was a list of cities, I assumed that the user would prefer a listing of (Copenhagen, berlin, Athens) vs (berlin, Copenhagen, Athens) in the case that a city was not capitalized. 
