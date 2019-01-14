@@ -49,6 +49,8 @@ Manual testing is useful when -
 
 Factors that would impact safety, critical requirements and user satisfaction would be my first choices for evaluation. With regards to safety, I currently work with software that provides recommendations of doses for injections. I consider that my top priority for testing since a wrong result can impact a person's health. Key criticial requirements would be my second consideration. Are there calculations that would impact the user so greatly that it would cause major negative consequences - prices are given incorrectly, calculations are wrong, information is incorrect. Then I would look at the user experience. Does the software take long to load? Does the site freeze and need refreshing? Can I navigate properly. I would look for issues that would cause the user to give up on the software quickly.
 
+To select areas that I would not test, I would look for portions of the software that were accessed less often by users, areas that were more cosmetic in nature and areas that were currently undergoing changes that would be tested in the near future.
+
 ## ABOUT YOURSELF
 1. What excites you about this position?
 
